@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @SonLPH
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Sơn 👋
 
-<!---
-SonLPH/SonLPH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m passionate about software engineering, backend systems, and building products that are both useful and well-structured. I like solving real problems, learning by doing, and continuously improving the way I design and write software.
+
+Here you’ll find a mix of projects, experiments, and small steps from my journey as a developer.
